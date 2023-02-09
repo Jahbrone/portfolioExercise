@@ -306,10 +306,12 @@ main#home h1 {
   main {
     align-items: center;
     text-align: center;
+    padding: 4rem 1.5rem;
   }
   main .lg-heading {
     line-height: 1;
     margin-bottom: 1rem;
+    font-size: 3rem;
   }
   ul.menu-nav,
   div.menu-branding {
